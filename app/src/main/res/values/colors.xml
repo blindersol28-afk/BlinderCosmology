@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink_black">#0A0705</color>
+    <color name="smoke">#1C1612</color>
+    <color name="sepia">#C9A86B</color>
+    <color name="brass">#B8893D</color>
+    <color name="bone">#E8DCC4</color>
+    <color name="blood">#7A1F1F</color>
+</resources>

@@ -1,0 +1,3 @@
+# Copy this file to `local.properties` and fill in your own key.
+# `local.properties` is gitignored — never commit secrets.
+geminiApiKey=YOUR_GEMINI_API_KEY_HERE
